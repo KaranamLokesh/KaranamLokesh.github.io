@@ -2,11 +2,8 @@
   percentage: 90
   color: success
 
-- name: Java
-  percentage: 85
-  color:
 
-- name: TypeScript/JavaScript
+- name: C++
   percentage: 80
   color:
 
