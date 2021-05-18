@@ -1,19 +1,12 @@
-- name: Music
-  percentage: 80
-  color:
 
-- name: Running
-  percentage: 75
-  color: 
+
+
 
 - name: Research
   percentage: 70
   color: danger
 
-- name: Chinese
-  percentage: 60
+- name: French
+  percentage: 40
   color: danger
 
-- name: Japanese
-  percentage: 50
-  color: danger
