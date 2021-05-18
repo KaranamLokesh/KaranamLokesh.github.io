@@ -1,0 +1,68 @@
+- title: Graduate Research Assistant, University of Missouri
+  from: 2020
+  to: present
+  description: • Research and develop novel geometric deep learning techniques applicable to computational biology and computer vision<br>
+               • Test and design new equivariant neural networks for learning biomolecular structures<br>
+               • Organize and conduct large-scale deep learning experiments in a distributed setting<br>
+               • Review and annotate the latest literature on machine learning
+
+- title: Data Science Intern, Altec
+  from: 2021
+  to: present
+  description: • Design and develop end-to-end machine learning pipelines in AWS using Python and R<br>
+               • Collaborate closely with business stakeholders and analysts to understand data and the problem needing to be solved<br>
+               • Work with other development teams to integrate models into user applications
+
+- title: Software Development Intern, Altec
+  from: 2018
+  to: 2021
+  description: • Reduced miscommunication between service centers globally by engineering over 5 new Angular web applications<br>
+               • Maintained the testing environments of in-house applications by writing LINQ queries and tuning up test databases<br>
+               • Built more than 6 secure back end APIs with the Spring framework in an agile development setting
+
+- title: Undergraduate Research Assistant, IUPUI
+  from: 2019
+  to: 2019
+  description: • Effectively contributed to a private repository for the department's NSF-funded 2019 Data Science REU<br>
+               • Authored an SMS alert pipeline using TensorFlow Lite models on Raspberry Pi microcomputers<br>
+               • Precisely recorded findings of the gunshot sound detection project in a LaTeX manuscript
+
+- title: Undergraduate Research Assistant, MWSU
+  from: 2018
+  to: 2018
+  description: • Successfully developed and maintained a GitHub repository of mathematical applications to synthetic biology<br>
+               • Produced the open-source desktop application Variant Sampler for modeling the sample space of in vitro experiments<br>
+               • Accurately documented all source code generated for the department's NSF-funded 2018 summer research project
+
+- title: Computer Science Content Tutor, MWSU
+  from: 2017
+  to: 2018
+  description: • Assisted students in furthering their understanding of object-oriented programming and data structures<br>
+               • Trained students to individualize the learning process to achieve their academic goals<br>
+               • Designed and initiated a customized learning plan for each student’s success
+
+- title: Ph.D. in Computer Science, University of Missouri
+  from: 2020
+  to: present
+  description: AWARDS:<br>
+               James W. and Joan M. O'Neill Graduate Fellowship in Engineering | Aug 2020 - Apr 2021<br>
+               Dean's Engineering Excellence Fellowship | Aug 2020 - Apr 2021<br>
+               <br>
+               RELEVANT COURSEWORK:<br>
+               Machine Learning & Pattern Recognition, Design & Analysis of Algorithms, Computational Systems Biology, Advanced Natural Language Processing, Machine Learning Methods for Biomedical Informatics
+
+- title: B.S. in Computer Science, MWSU
+  from: 2016
+  to: 2020
+  description: AWARDS:<br>
+               Outstanding Graduating Student Award | Apr 2020<br>
+               President's Honor Roll | Aug 2016 - Apr 2020<br>
+               Scholastic Key Award | Aug 2016 - Apr 2020<br>
+               Floyd Tesmer/Strayer University Prize in Computer Science and Engineering | Apr 2019<br>
+               Alpha Chi Region IV Scholarship | Apr 2019<br>
+               <br>
+               MINOR:<br>
+               Mathematics<br>
+               <br>
+               RELEVANT COURSEWORK:<br>
+               Data Structures, Object Oriented Applications & Program Development, Compiler Theory, Database Architecture & Concepts, Operating System Concepts, Networking & Telecommunications

@@ -1,0 +1,27 @@
+- name: Python
+  percentage: 90
+  color: success
+
+- name: Java
+  percentage: 85
+  color:
+
+- name: TypeScript/JavaScript
+  percentage: 80
+  color:
+
+- name: HTML5/CSS3
+  percentage: 75
+  color:
+
+- name: C
+  percentage: 70
+  color:
+
+- name: SQL
+  percentage: 65
+  color: danger
+
+- name: R
+  percentage: 60
+  color: danger
