@@ -1,10 +1,10 @@
 ### Site Settings ###
-title               : Alex Morehead
+title               : Lokesh Karanam
 description         : >-
-                      Ph.D. Student in Machine Learning
-                      and Bioinformatics <a target='_blank' rel='noopener noreferrer' href='https://missouri.edu/'>@Mizzou</a>.
+                      Masters Student in omputer Science
+                       <a target='_blank' rel='noopener noreferrer' href='https://missouri.edu/'>@Mizzou</a>.
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
-repository          : amorehead/amorehead.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
+repository          : KaranamLokesh/KaranamLokesh.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : YoussefRaafatNasry/portfolYOU@v2.2.2
 
 
@@ -22,7 +22,7 @@ nav_exclude:                                            # The following paths ar
 
 ### Author Info ###
 author:
-  name              : Alex Morehead
+  name              : Lokesh Karanam
   image             : https://amorehead.github.io/assets/img/portfolio_picture.jpg
 # behance           : your_username
 # dribbble          : your_username
