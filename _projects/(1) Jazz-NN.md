@@ -1,7 +1,7 @@
 ---
-name: Jazz-NN
-tools: [Keras, TensorFlow]
-image: https://amorehead.github.io/assets/img/jazz_nn.jpg
-description: An LSTM RNN made to generate new jazz scores.
-external_url: https://github.com/amorehead/jazz-nn
+name: Neighborhood-characteristics-navigation
+tools: [PHP.JavaScript,Keras, TensorFlow]
+image: https://karanamlokesh.github.io/assets/img/image_selection.png
+description: A Neighborhood characteristics navigation mechanism using Google streetview.
+external_url: https://github.com/KaranamLokesh/Neighborhood-characteristics-navigation
 ---
