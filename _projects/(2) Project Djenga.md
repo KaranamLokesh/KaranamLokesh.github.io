@@ -1,7 +1,7 @@
 ---
 name: Project Djenga
-tools: [Django, Python, HTML, CSS, JavaScript]
-image: https://amorehead.github.io/assets/img/project_djenga.png
-description: A Python & Django-based web application made for learning about Python's many open-source libraries.
-external_url: https://github.com/amorehead/projectdjenga
+tools: [JavaScript, PHP, HTML, CSS, SQL]
+image: https://amorehead.github.io/assets/img/BirdInterface.png
+description: An user interface to diaplay the images of our research work on google maps accurately.
+external_url: https://github.com/KaranamLokesh/BirdInterface
 ---
